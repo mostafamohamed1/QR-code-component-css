@@ -9,4 +9,4 @@ This is my solution for this challenge on frontend mentor
 - css 
 
 ### Solved By 
-(@mostafamohamed1)[https://github.com/mostafamohamed1]
+[@mostafamohamed1](https://github.com/mostafamohamed1)
